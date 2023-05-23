@@ -19,8 +19,8 @@ python manage.py runserver
 ```
 
 ## Admin prisijungimas
-Username : admin
-Password : admin
+- Username : admin
+- Password : admin
 
 ## Pastaba! Naujai registruotas vartotojas neturi admin teisių.
 Tik 'admin' vartotojas.
