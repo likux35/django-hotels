@@ -129,11 +129,11 @@ LOGIN_REDIRECT_URL = "/"
 
 # EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
 EMAIL_BACKEND = "django.core.mail.backends.smtp.EmailBackend"
-EMAIL_HOST = 'mail.ptu66.smshostingas.lt'
+EMAIL_HOST = 'mail.inbox.lt'
 EMAIL_POST = 587
 EMAIL_USE_TLS = True
-EMAIL_HOST_USER = 'klubas@ptu66.smshostingas.lt'
-EMAIL_HOST_PASSWORD = 'Princass35'
+EMAIL_HOST_USER = 'user@inbox.lt'
+EMAIL_HOST_PASSWORD = 'superhardpassword'
 
 CRISPY_TEMPLATE_PACK = 'bootstrap4'
 
